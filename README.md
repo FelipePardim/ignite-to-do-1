@@ -2,7 +2,7 @@
     Ignite To-Do Api
 </h1>
 
-## PROJECT NAME DESCRIPTION.
+## Ignite To-Do Api.
 
 <p align="center">
 	<img src="https://img.shields.io/github/stars/FelipePardim/ignite-to-do-1" />
@@ -22,15 +22,12 @@
 - [Installation](#installation).
 - [How to use](#how-to-use).
     - [Running server](#running-server).
-    - [Running web application](#running-web).
-    - [Running mobile app](#running-mobile).
 - [Technologies](#technologies).
-- [License](#license).
 - [Author](#author).
 ---
 
 ## About
-#### A to-do API developed during Ignite course by RocketSeat.
+#### A to-do API developed during Ignite course 👨🏽‍🚀 by RocketSeat 🚀💺💜.
 
 ---
 
@@ -48,7 +45,7 @@ To run this project, please install this:
 >>  # Clone this repository
 >>  $ git clone https://github.com/FelipePardim/ignite-to-do-1
 >>   ```
-> ### Follow the guides bellow to run each project as you like.
+> ### Follow the guides bellow to run this project as you like.
 
 ---
 
@@ -62,7 +59,7 @@ To run this project, please install this:
 >> $ cd backend
 >>
 >># Install dependencies.
->>$ yarn install
+>>$ yarn
 >>#or.
 >>$ npm install
 >>
@@ -70,6 +67,11 @@ To run this project, please install this:
 >>$ yarn dev
 >>#or.
 >>$ npm dev
+>>
+>># To test the API server.
+>>$ yarn test
+>>#or.
+>>$ npm test
 >>
 >># The back-end server will listen on port 3333.
 >># Make API calls on http://localhost:3333.
@@ -83,14 +85,6 @@ To run this project, please install this:
 </h2>
 
 - [Node](https://nodejs.org/en/).
-
----
-
-<h2 id="license">
-    📝 License 
-</h2>
-
-This project is under [LICENSE](https://github.com/FelipePardim/ignite-to-do-1/LICENSE.md) license.
 
 ---
 
