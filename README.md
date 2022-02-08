@@ -5,24 +5,16 @@
 ## PROJECT NAME DESCRIPTION.
 
 <p align="center">
-    <!-- Badge de estrelas do projeto -->
 	<img src="https://img.shields.io/github/stars/FelipePardim/ignite-to-do-1" />
-    <!-- Badge de forks do projeto -->
     <img src="https://img.shields.io/github/forks/FelipePardim/ignite-to-do-1" />
-    <!-- Badge de issues do projeto -->
     <img src="https://img.shields.io/github/issues/FelipePardim/ignite-to-do-1" />
-    <!-- Badge da licença do projeto -->
     <img src="https://img.shields.io/github/license/FelipePardim/ignite-to-do-1" />
     <br>
-    <!-- Exemplo de badge de tecnologia utilizada -->
-    <img src="https://img.shields.io/badge/React-blue?logo=react" />
-    <!-- Exemplo de badge de tecnologia utilizada -->
     <img src="https://img.shields.io/badge/Node.JS-grey?logo=node.js" />
 </p>
 
 ---
 
-<!-- Exemplo de Index do projeto -->
 ## Index
 - [Index](#index).
 - [About](#about).
@@ -37,23 +29,19 @@
 - [Author](#author).
 ---
 
-<!-- Sobre o projeto -->
 ## About
 #### A to-do API developed during Ignite course by RocketSeat.
 
 ---
 
-<!-- Requisitos para testar ou utilizar o projeto -->
 ## Requirements
 
 To run this project, please install this:
 
-<!-- Nome da ferramenta e link para a sua documentação ou site -->
-- [TOOL](localhiost:8080).
+- [Node](https://nodejs.org/en/).
 
 ---
 
-<!-- Explicação da instação ou uso -->
 ## Installation
 > ### Clone the repo.
 >>   ```bash
@@ -64,7 +52,6 @@ To run this project, please install this:
 
 ---
 
-<!-- Explicação da instação ou uso -->
 ## How to use
 ><h3 id="running-server">
 >   🖥️ Running backend (server).
@@ -88,70 +75,25 @@ To run this project, please install this:
 >># Make API calls on http://localhost:3333.
 >>```
 >
-><h3 id="running-web">
->🌐 Running web application (frontend).
-></h3>
->
->>```bash
->># Access front-end folder.
->>$ cd frontend
->>
->># Install dependencies.
->>$ yarn install
->>#or.
->>$ npm install
->>
->># Start the Web server.
->>$ yarn start
->>#or.
->>$ npm start
->>
->># The front-end server will up on port 3000
->># Access the web app on http://localhost:3000.
->>```
->
-><h3 id="running-mobile">s
->    📱 Running mobile app ( Android & IOS ).
-></h3>
->
->>```bash
->># Acess mobile folder
->>$ cd mobile
->>
->># Install dependencies
->>$ yarn install
->>#or
->>$ npm install 
->>
->># Start the Expo server
->>$ expo start
->>
->> # Connect your iPhone or Android device to the expo server, or run in your prefered emulator;
->>```
->
+
 ---
 
-<!-- Tecnologias utilizadas no desenvolvimento do projeto -->
 <h2 id="technologies">
     🛠 Technologies
 </h2>
 
-This are the tech stack and tools utilized to develop this project:
-
-- [TOOL](localhiost:8080).
+- [Node](https://nodejs.org/en/).
 
 ---
 
-<!-- Licença do projeto -->
 <h2 id="license">
     📝 License 
 </h2>
 
-This project is under [LICENSE](https://github.com/FelipePardim/ignite-to-do-1/LICENSE.md) licensce.
+This project is under [LICENSE](https://github.com/FelipePardim/ignite-to-do-1/LICENSE.md) license.
 
 ---
 
-<!-- Sobre mim ou os autores -->
 <h2 id="author">
     👨🏽‍💻 Author:
     <div>
